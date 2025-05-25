@@ -98,7 +98,7 @@
             data-aos-duration="1600"
             data-aos-easing="ease-in-out"
             data-aos-once="true"
-            href="https://www.linkedin.com/in/simas-raudonis"
+            href="https://www.linkedin.com/in/melkamu-mesene-4a0780264"
             target="_blank"
           >
             <li class="linkedin">

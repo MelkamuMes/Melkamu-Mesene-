@@ -24,7 +24,7 @@
             ></b
           >,
           <b>
-            <a href="https://www.linkedin.com/in/simas-raudonis" target="_blank"
+            <a href="https://www.linkedin.com/in/melkamu-mesene-4a0780264" target="_blank"
               >LinkedIn</a
             ></b
           >

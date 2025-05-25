@@ -13,71 +13,32 @@
         <h1 class="pb-15">Education & Experience</h1>
         <div class="pb-5">
           <div class="d-flex">
-            <a href="https://creditro.com" target="_blank"
-              ><h2 id="links">Creditro</h2></a
-            >
-            <h2 class="ml-auto">Application Development</h2>
+            <!-- <a href="https://creditro.com" target="_blank" >--><h2 id="links">Fettan Pay</h2>
+              <!-- </a> --> 
+            <h2 class="ml-auto">Payment Application Development</h2>
           </div>
-          <span>08.2021 - 11.2021 / Esbjerg, Denmark</span>
+          <span>08.2021 - 11.2021 / Addiss Abeba, Ethiopia</span>
         </div>
         <div class="pb-5">
           <div class="d-flex">
-            <a href="https://www.energycluster.dk" target="_blank"
-              ><h2 id="links">Energy Cluster Denmark</h2></a
-            >
-            <h2 class="ml-auto">Web Application Development</h2>
-          </div>
-          <span>08.2020 - 01.2021 / Esbjerg, Denmark</span>
-        </div>
-        <div class="pb-5">
-          <div class="d-flex">
-            <a href="https://www.easv.dk/en" target="_blank"
+            <a href="https://www.available.soon/en" target="_blank"
               ><h2 id="links">Software Engineering</h2></a
             >
-            <h2 class="ml-auto">Bachelor: University of Debremarkos</h2>
+            <h2 class="ml-auto">Bachelor: At University of Debremarkos</h2>
           </div>
           <span>08.2020 - 11.2021 / Debremarkos, Ethiopia</span>
         </div>
         <div class="pb-5">
           <div class="d-flex">
-            <a href="https://cocolab.club" target="_blank"
-              ><h2 id="links">Cocolab.club</h2></a
-            >
+            <a href="https://available.soon" target="_blank"
+              >
+              <h2 id="links">ATP</h2>
+              </a>
             <h2 class="ml-auto">Final Exam Project</h2>
           </div>
-          <span>04.2020 - 06.2020 / Addis Abeba, Ethiopia</span>
+          <span>04.2020 - 06.2020 / Debremarkos, Ethiopia</span>
         </div>
-        <div class="pb-5">
-          <div class="d-flex">
-            <a href="https://www.nobrainer.dk" target="_blank"
-              ><h2 id="links">NoBrainer</h2></a>
-            <h2 class="ml-auto">Junior Web Developer</h2>
-          </div>
-          <span>01.2020 - 04.2020 / Addis Abeba, Ethiopia</span>
-        </div>
-        <div class="pb-5">
-          <div class="d-flex">
-            <a href="https://www.easv.dk/en" target="_blank"
-              ><h2 id="links">EASV</h2></a
-            >
-            <h2 class="ml-auto">AP degree: Multimedia Design</h2>
-          </div>
-          <span>08.2018 - 06.2020 / Addis Abeba, Ethiopia</span>
-        </div>
-        <div class="pb-5">
-          <div class="d-flex">
-            <h2>Freelance</h2>
-            <h2 class="ml-auto">Interpreter EN-LT</h2>
-          </div>
-          <span>07.2017 - 04.2018 / Kretinga, Lithuania</span>
-        </div>
-        <div class="d-flex">
-          <a href="https://www.kolpingokolegija.lt/" target="_blank"
-            ><h2 id="links">Kolping University</h2></a
-          >
-          <h2 class="ml-auto">Bachelor: Business English</h2>
-        </div>
-        <span>09.2014 - 06.2017 / Kaunas, Lithuania</span>
+
       </v-col>
     </div>
     <v-col cols="12" md="11" sm="12">

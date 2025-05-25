@@ -1,4 +1,4 @@
-# Simas Raudonis - Portfolio
+# Melkamu Mesene - Portfolio
 Personal Portfolio website made with VueJS and Vuetify.
 
 Visit: https://Melkamu-Mesene-.github.io

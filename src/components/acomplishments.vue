@@ -32,11 +32,11 @@
         <div class="pb-5">
           <div class="d-flex">
             <a href="https://www.easv.dk/en" target="_blank"
-              ><h2 id="links">EASV</h2></a
+              ><h2 id="links">Software Engineering</h2></a
             >
-            <h2 class="ml-auto">Bachelor: Software Engineering</h2>
+            <h2 class="ml-auto">Bachelor: University of Debremarkos</h2>
           </div>
-          <span>08.2020 - 11.2021 / Addis Abeba, Ethiopia</span>
+          <span>08.2020 - 11.2021 / Debremarkos, Ethiopia</span>
         </div>
         <div class="pb-5">
           <div class="d-flex">

@@ -19,8 +19,8 @@
           or if you just want to chat about design and <br />
           technology - shoot me a message at <br />
           <b
-            ><a href="mailto:simas.raudonis@gmail.com" target="_blank"
-              >simas.raudonis@gmail.com</a
+            ><a href="mailto:melkamumesene4@gmail.com" target="_blank"
+              >melkamumesene4@gmail.com</a
             ></b
           >,
           <b>

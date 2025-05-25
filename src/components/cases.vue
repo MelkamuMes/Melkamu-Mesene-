@@ -96,12 +96,12 @@ export default {
       imageLink: "",
       projects: [
         {
-          title: "Project Management Application",
+          title: "Attendance Tracking and Payroll",
           date: "May 2021",
-          imageLink: require("@/assets/pma1.png"),
-          imageLink2: require("@/assets/pma2.png"),
+          imageLink: require("@/assets/ATP-1.png"),
+          imageLink2: require("@/assets/ATP-3.png"),
           description:
-            "As the name suggests - it's a project management application. Took a lot of inspiration from applications like - trello and ClickUp and of course added my own flavor to it to make it even better. The application was made using the MEVN stack. The application has an authentication system, authorization system, and a lot of features like dark and light modes, the ability to work on the same project for many users at the same time, a fully editable project board, a lot of details that the user can assign to the task, time stamp features for each task - user(-s) is able to assign a time of the task and everything is being tracked, counted and shown and much much more. The API part of the application can be found on my GitHub along with instructions on how to launch the application. I highly recommend checking the application out. You can find more information on GitHub.",
+            "As the name suggests - it's a Attenance Tracking and Payroll management application. Took a lot of inspiration from applications like - trello and ClickUp and of course added my own flavor to it to make it even better. The application was made using the MEVN stack. The application has an authentication system, authorization system, and a lot of features like dark and light modes, the ability to work on the same project for many users at the same time, a fully editable project board, a lot of details that the user can assign to the task, time stamp features for each task - user(-s) is able to assign a time of the task and everything is being tracked, counted and shown and much much more. The API part of the application can be found on my GitHub along with instructions on how to launch the application. I highly recommend checking the application out. You can find more information on GitHub.",
           behanceLink:
             "https://www.behance.net/gallery/122332195/Project-Management-Application",
           githubLink: "https://github.com/tutaru99/project-management-app",

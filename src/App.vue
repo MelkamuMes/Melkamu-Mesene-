@@ -1,6 +1,6 @@
-<template>
-  <v-app id="mainContainer">
-    <div>
+<!-- <template> -->
+  <!-- <v-app id="mainContainer" >  -->
+    <!-- <div>
       <HelloWorld />
       <about />
       <skills />
@@ -13,11 +13,11 @@
         <span id="highlight">Simas <span id="mrRed">R</span>audonis</span>. All
         rights reserved.
       </p>
-    </div>
-  </v-app>
-</template>
+    </div> -->
+  <!-- </v-app> -->
+<!-- </template> -->
 
-<script>
+<!-- <script>
 import HelloWorld from "@/components/HelloWorld";
 import about from "@/components/about";
 import skills from "@/components/skills";
@@ -30,6 +30,12 @@ import email from "@/components/email";
 export default {
   name: "App",
 
+  // computed: {
+  //   currentTheme() {
+  //     return this.$store.state.theme;
+  //   }
+  
+
   components: {
     HelloWorld,
     about,
@@ -41,9 +47,9 @@ export default {
     project,
   },
 };
-</script>
+</script> -->
 
-<style>
+<!-- <style>
 * {
   padding: 0;
   margin: 0;
@@ -92,4 +98,108 @@ export default {
 .hvr-glow:active {
   box-shadow: 0 0 20px #536dfe !important;
 }
+</style> -->
+
+
+
+
+<template>
+  <v-app id="mainContainer">
+    <ThemeSwitcher />
+    <LanguageSwitcher />
+    
+    <div>
+      <HelloWorld />
+      <about />
+      <skills />
+      <acomplishments />
+      <cases />
+      <contact />
+
+      <p id="credits" class="scroll-to text-center mt-15">
+        © {{ new Date().getFullYear() }}
+        <span id="highlight">Melkamu Mesene</span>. All rights reserved.
+      </p>
+    </div>
+  </v-app>
+</template>
+
+<script>
+import HelloWorld from "@/components/HelloWorld";
+import about from "@/components/about";
+import skills from "@/components/skills";
+import acomplishments from "@/components/acomplishments";
+import cases from "@/components/cases";
+import contact from "@/components/contact";
+import email from "@/components/email";
+import ThemeSwitcher from "@/components/ThemeSwitcher";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
+
+export default {
+  name: "App",
+  components: {
+    HelloWorld,
+    about,
+    skills,
+    acomplishments,
+    cases,
+    contact,
+    email,
+    ThemeSwitcher,
+    LanguageSwitcher
+  }
+};
+</script>
+
+<style>
+/* Add these new styles at the bottom of your existing styles */
+[data-theme="light"] {
+  --bg-color: #f5f5f5;
+  --text-color: #333333;
+  --primary-color: #3f51b5;
+  --secondary-color: #303f9f;
+}
+
+[data-theme="dark"] {
+  --bg-color: #000004;
+  --text-color: #ffffff;
+  --primary-color: #536DFE;
+  --secondary-color: #3a4bb8;
+}
+
+[data-theme="bright"] {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --primary-color: #FF4081;
+  --secondary-color: #F50057;
+}
+
+#mainContainer {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.5s ease;
+}
+
+/* Update existing elements to use CSS variables */
+h1, h2, h3, p, span {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+#buttonMain {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+  transition: all 0.3s ease;
+}
+
+#highlight {
+  box-shadow: inset 0 -1px 0 var(--primary-color);
+}
+
+#highlight:hover {
+  box-shadow: inset 0 -22px 0 var(--primary-color);
+}
+
+/* Keep all your existing styles below */
+/* ... */
 </style>

@@ -8,21 +8,21 @@
       data-aos-easing="ease-in-out"
       data-aos-once="true"
       id="bigSimas"
-      src="../assets/simasBig2.jpg"
+      src="../assets/Untitled (2).png"
       position="right"
       aspect-ratio="1.6"
       contain
       gradient="to top right, rgba(0,0,0,.15), rgba(0,0,0,.7)"
-      alt="Simas Raudonis"
+      alt="Melkamu Mesene"
     >
       <v-img
         class="mt-2"
-        src="../assets/logo_simas.png"
+        src="../assets/Logo (1).png"
         position="left"
         aspect-ratio="1.4"
         height="70"
         contain
-        alt="Simas Raudonis"
+        alt="Melkamu Mesene"
       ></v-img>
       <div
         class="offset-md-1"
@@ -41,11 +41,11 @@
                 <div id="border"></div>
               </h2>
             </div>
-            <h1>My name is Simas.</h1>
+            <h1>My name is Melkamu.</h1>
             <h2>
               I am a <span id="highligh"> Web Developer</span> &
               <span id="highligh">Graphic Designer</span> <br />
-              Currently based in Esbjerg, Denmark
+              Currently based in Addis Abeba, Ethiopia
             </h2>
           </div>
         </v-col>

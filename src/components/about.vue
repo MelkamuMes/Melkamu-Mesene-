@@ -14,15 +14,14 @@
     >
       <v-col cols="12" md="4" sm="5">
         <p id="primaryText">
-          I'm Simas. Currently broadening my horizons and getting Web
-          Development degree in Denmark. <br /><br />
+          I'm Melkamu Mesene. Currently broadening my horizons and getting Software Enginering degree in DMU. <br /><br />
           I love creating things that are useful and make people smile. Web
           Development is not only my field of study and work - it's my passion.
         </p>
         <v-btn
           id="buttonMain"
           class="hvr-glow pa-2 px-10 mt-7"
-          href="https://drive.google.com/file/d/1v29wnpy1XLId_RjYFj73cV6W9b9wdQab/view"
+          href="https://drive.google.com/file/d/1NdtYvrdRBPRN17h8vqrvrynT0GWvVb2D/view?usp=drive_link"
           target="_blank"
           outlined
           ripple
@@ -33,9 +32,9 @@
       <v-col class="offset-md-1" cols="12" md="6" sm="5">
         <p>
           My professional area of focus lies in web development, designing web
-          and mobile products, SEO & user research. I enjoy designing and
+          and mobile products. I enjoy designing and
           developing as much as talking with users to get feedback and improving
-          the UX and functionality. <br />
+          the UI/UX and functionality. <br />
           <br />
           Amongst many other things, I enjoy keeping up with all technological
           innovations, latest tech. trends, reading science, tech. and other
@@ -45,7 +44,7 @@
         <v-btn
           id="buttonMain"
           class="hvr-glow pa-2 px-10 mt-7"
-          href="https://www.linkedin.com/in/simas-raudonis/"
+          href="https://www.linkedin.com/in/melkamu-mesene-4a0780264"
           target="_blank"
           outlined
           ripple

@@ -1,6 +1,6 @@
-<!-- <template> -->
-  <!-- <v-app id="mainContainer" >  -->
-    <!-- <div>
+<template>
+  <v-app id="mainContainer" > 
+    <div>
       <HelloWorld />
       <about />
       <skills />
@@ -13,11 +13,11 @@
         <span id="highlight">Simas <span id="mrRed">R</span>audonis</span>. All
         rights reserved.
       </p>
-    </div> -->
-  <!-- </v-app> -->
-<!-- </template> -->
+    </div>
+  </v-app>
+</template>
 
-<!-- <script>
+<script>
 import HelloWorld from "@/components/HelloWorld";
 import about from "@/components/about";
 import skills from "@/components/skills";
@@ -47,9 +47,9 @@ export default {
     project,
   },
 };
-</script> -->
+</script>
 
-<!-- <style>
+<style>
 * {
   padding: 0;
   margin: 0;
@@ -98,11 +98,11 @@ export default {
 .hvr-glow:active {
   box-shadow: 0 0 20px #536dfe !important;
 }
-</style> -->
+</style>
 
 
 
-
+<!-- 
 <template>
   <v-app id="mainContainer">
     <ThemeSwitcher />
@@ -202,4 +202,4 @@ h1, h2, h3, p, span {
 
 /* Keep all your existing styles below */
 /* ... */
-</style>
+</style> -->

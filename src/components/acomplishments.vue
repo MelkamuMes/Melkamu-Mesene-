@@ -34,9 +34,9 @@
             <a href="https://www.easv.dk/en" target="_blank"
               ><h2 id="links">EASV</h2></a
             >
-            <h2 class="ml-auto">Bachelor: Web Development</h2>
+            <h2 class="ml-auto">Bachelor: Software Engineering</h2>
           </div>
-          <span>08.2020 - 11.2021 / Esbjerg, Denmark</span>
+          <span>08.2020 - 11.2021 / Addis Abeba, Ethiopia</span>
         </div>
         <div class="pb-5">
           <div class="d-flex">
@@ -45,7 +45,7 @@
             >
             <h2 class="ml-auto">Final Exam Project</h2>
           </div>
-          <span>04.2020 - 06.2020 / Esbjerg, Denmark</span>
+          <span>04.2020 - 06.2020 / Addis Abeba, Ethiopia</span>
         </div>
         <div class="pb-5">
           <div class="d-flex">
@@ -53,7 +53,7 @@
               ><h2 id="links">NoBrainer</h2></a>
             <h2 class="ml-auto">Junior Web Developer</h2>
           </div>
-          <span>01.2020 - 04.2020 / Esbjerg, Denmark</span>
+          <span>01.2020 - 04.2020 / Addis Abeba, Ethiopia</span>
         </div>
         <div class="pb-5">
           <div class="d-flex">
@@ -62,7 +62,7 @@
             >
             <h2 class="ml-auto">AP degree: Multimedia Design</h2>
           </div>
-          <span>08.2018 - 06.2020 / Esbjerg, Denmark</span>
+          <span>08.2018 - 06.2020 / Addis Abeba, Ethiopia</span>
         </div>
         <div class="pb-5">
           <div class="d-flex">

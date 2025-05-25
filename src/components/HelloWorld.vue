@@ -85,7 +85,7 @@
             data-aos-duration="1600"
             data-aos-easing="ease-in-out"
             data-aos-once="true"
-            href="https://www.instagram.com/ep1phany_0"
+            href="https://www.instagram.com/melkamumesene99"
             target="_blank"
           >
             <li class="instagram">
@@ -111,7 +111,7 @@
             data-aos-duration="1600"
             data-aos-easing="ease-in-out"
             data-aos-once="true"
-            href="https://www.behance.net/simasraudonis"
+            href="https://www.behance.net/melkamu99"
             target="_blank"
             ><li class="behance">
               <i class="fa fa-behance fa-2x" aria-hidden="true"></i></li
@@ -123,7 +123,7 @@
             data-aos-duration="1600"
             data-aos-easing="ease-in-out"
             data-aos-once="true"
-            href="https://github.com/tutaru99"
+            href="https://github.com/MelkamuMes"
             target="_blank"
             ><li class="github">
               <i class="fa fa-github fa-2x" aria-hidden="true"></i></li
@@ -135,7 +135,7 @@
             data-aos-duration="1600"
             data-aos-easing="ease-in-out"
             data-aos-once="true"
-            href="https://codepen.io/tutaru99"
+            href="https://codepen.io/MelkamuMes"
             target="_blank"
             ><li class="codepen">
               <i class="fa fa-codepen fa-2x" aria-hidden="true"></i></li
@@ -157,7 +157,7 @@
                 data-aos-duration="1600"
                 data-aos-easing="ease-in-out"
                 data-aos-once="true"
-                href="https://drive.google.com/file/d/1v29wnpy1XLId_RjYFj73cV6W9b9wdQab/view"
+                href="https://drive.google.com/file/d/1nliwk6lfmEik3k8o-I3aQhe79XKexj-V/view?usp=drive_link"
                 target="_blank"
               >
                 <li class="cv">

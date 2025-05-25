@@ -11,7 +11,7 @@
       <v-col cols="12" md="4" sm="12">
         <form
           target="_blank"
-          action="https://formsubmit.co/simas.raudonis@gmail.com"
+          action="https://formsubmit.co/melkamumesene4@gmail.com"
           method="POST"
         >
           <div class="form-group">
